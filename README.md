@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ZephNotFound)
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working as **Software Development Engineer**
 
 - 🌱 I’m currently learning **Go**
 
